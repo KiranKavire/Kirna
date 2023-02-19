@@ -1,1 +1,2 @@
-print('Kiran Kavire')
+x = 'Kiran Kavire'
+print(x)
